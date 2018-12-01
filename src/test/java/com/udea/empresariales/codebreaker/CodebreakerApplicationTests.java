@@ -13,7 +13,10 @@ public class CodebreakerApplicationTests {
 
 	
 	@Test
+	/**
+	 */
 	public void contextLoads() {
+		assertEquals("x", "x");
 	}
 
 }
